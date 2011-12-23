@@ -31,6 +31,10 @@ The plugin observes links (a tags) with the following data- attributes:
     data-show
     data-hide
     data-focus
+    data-blur
+    data-select
+    data-submit
+    data-toggle
 
 When the link is clicked, the plugin will fire the event named by the data- attribute on the value of the data- attribute.
 
